@@ -1,18 +1,18 @@
 # Python Assignment3
 Program to check user verification using Flask web server
 ## Instalation
-In order to run this program, firstly install required packages and modules from requirements.txt file There will be needed packages like SQLAlchemy and jwt
-
-to install packeges you can use this command:
+To run this program, first install the required packages and modules from the requirements.txt file. To install the package, you need a package such as SQLAlchemy or jwt
+. You can use the following command:
 
 ```bash
 $ pip install -r requirements.txt
 ```
 ## Usage
-To start using it first of all create the database in dbms application which you use, it can pgadmin or sql server and others.
-Write required info like your database name, password inside confinguration.
-After, open tablecreating.py file in some code redactor and uncomment commented block of code to create table and insert in there first row of data. 
-Then go to the terminal and open tablecreating.py file from here
+To use it, first  create a database in your dbms application. This is something like pgadmin or sql server. 
+ Write the required information such as database name and password to the configuration. 
+ Next, open the tablecreating.py file in the code editor, uncomment the commented  code blocks, create the table, and insert it in the first row of data. 
+ Then go to the terminal and open the tablecreating.py file from here
+
 ```bash
 
 cd 'copy your file path here'
