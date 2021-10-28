@@ -25,3 +25,10 @@ after this write file name, in our case its webserver.py because our runner loca
 webserver.py
 ```
 ## Examples
+![f1](https://user-images.githubusercontent.com/93276431/139174674-9283b3ac-212e-49e5-ab57-7b4a07870f3f.png)
+![f2](https://user-images.githubusercontent.com/93276431/139174715-376c120c-7691-4e57-96e1-0227438b97a9.png)
+![f3](https://user-images.githubusercontent.com/93276431/139174744-cb1b209b-3835-4b9c-930a-5661b90c2296.png)
+![f4](https://user-images.githubusercontent.com/93276431/139174760-d186aa07-2a76-471c-a8d2-73b8cff3bcf3.png)
+![f5](https://user-images.githubusercontent.com/93276431/139174781-43408a40-5660-4ade-816b-cee52219f5d6.png)
+![f6](https://user-images.githubusercontent.com/93276431/139174793-f1208de7-a85f-4d7e-bd8f-1082f9c91beb.png)
+![f7 (1)](https://user-images.githubusercontent.com/93276431/139174799-632260b1-13a5-4122-a787-87fc8becbb88.png)
