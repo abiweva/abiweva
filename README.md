@@ -42,5 +42,5 @@ todo> python manage.py runserver
 ## 4) You can add new user and account from your admin page.
 ![image](https://user-images.githubusercontent.com/93276431/149790015-85688361-d926-4069-aaca-24460069e899.png)
 
-## 5) <img src="https://user-images.githubusercontent.com/93276431/149794303-75a41fd0-710c-46d3-ace9-11ca1db98303.png" width="450">
+## 5)
 
