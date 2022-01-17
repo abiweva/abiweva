@@ -1,34 +1,31 @@
-# Python Assignment3
-Program to check user verification using Flask web server
+# ToDo app with authentication in Django!
+## Task
+ToDo app with authentication in Django!
 ## Instalation
-To run this program, first install the required packages and modules from the requirements.txt file. To install the package, you need a package such as SQLAlchemy or jwt
-. You can use the following command:
+To run Django program, first install the required packages and modules . To install the package, you need to follow this command:
 
 ```bash
-$ pip install -r requirements.txt
+$ pip install Django
+$ django-admin startproject
+$ python manage.py migrate
+$ cd C:\Django 
+$ cd todo
+todo> python manage.py runserver
 ```
 ## Usage
-To use it, first  create a database in your dbms application. This is something like pgadmin or sql server. 
- Write the required information such as database name and password to the configuration. 
- Next, open the tablecreating.py file in the code editor, uncomment the commented  code blocks, create the table, and insert it in the first row of data. 
- Then go to the terminal and open the tablecreating.py file from here
+## 1)  In order to log in to the server, we need to set a username and password and create an account. To do this, enter this code into the command line.
+![image](https://user-images.githubusercontent.com/93276431/149786035-0e9b8dd3-55da-4aa5-95c8-3942d01a79f6.png)
+## 2) Next, go to our server and log in using our username and password. Also, in order to enter the login page, we need to register admin at the end of our address http://127.0.0.1:8000/admin/login/admin/
+![image](https://user-images.githubusercontent.com/93276431/149786339-d377afc8-67df-4957-b5df-66d37dff3ee2.png)
+![image](https://user-images.githubusercontent.com/93276431/149786453-cb197b5d-5586-4d21-aac5-68e87d4e8fd2.png)
+## 3) You can add any task to your glider and also easily delete it. 
+![image](https://user-images.githubusercontent.com/93276431/149787102-c686c17c-c647-456f-b4c4-0576c3f1dff3.png)
+![image](https://user-images.githubusercontent.com/93276431/149787493-dd37eb09-bb8c-49bf-b15f-afd1b237e495.png)
+![image](https://user-images.githubusercontent.com/93276431/149787588-d7b5833f-f908-4bd4-8eca-ccdb42df2300.png)
+![image](https://user-images.githubusercontent.com/93276431/149787693-5d86b6cc-be23-4857-9d5f-b9a5b6dfd263.png)
+## 3)  When completing a task, you can delete it from the list. 
+![image](https://user-images.githubusercontent.com/93276431/149788152-a3ead994-3a13-495e-ace5-b9cd0e16ac98.png)
+## 4) You can add new user and account from your admin page.
+![image](https://user-images.githubusercontent.com/93276431/149790015-85688361-d926-4069-aaca-24460069e899.png)
 
-```bash
 
-cd 'copy your file path here'
-it will look like this
-cd C:\Users\additionalpath\foldernamewherefilelocated
-```
-after this write file name, in our case its webserver.py because our runner located in this file and press enter
-```bash
-
-webserver.py
-```
-## Examples
-![f1](https://user-images.githubusercontent.com/93276431/139174674-9283b3ac-212e-49e5-ab57-7b4a07870f3f.png)
-![f2](https://user-images.githubusercontent.com/93276431/139174715-376c120c-7691-4e57-96e1-0227438b97a9.png)
-![f3](https://user-images.githubusercontent.com/93276431/139174744-cb1b209b-3835-4b9c-930a-5661b90c2296.png)
-![f4](https://user-images.githubusercontent.com/93276431/139174760-d186aa07-2a76-471c-a8d2-73b8cff3bcf3.png)
-![f5](https://user-images.githubusercontent.com/93276431/139174781-43408a40-5660-4ade-816b-cee52219f5d6.png)
-![f6](https://user-images.githubusercontent.com/93276431/139174793-f1208de7-a85f-4d7e-bd8f-1082f9c91beb.png)
-![f7 (1)](https://user-images.githubusercontent.com/93276431/139174799-632260b1-13a5-4122-a787-87fc8becbb88.png)
