@@ -39,8 +39,8 @@ todo> python manage.py runserver
 ![image](https://user-images.githubusercontent.com/93276431/149787693-5d86b6cc-be23-4857-9d5f-b9a5b6dfd263.png)
 ## 3)  When completing a task, you can delete it from the list. 
 ![image](https://user-images.githubusercontent.com/93276431/149788152-a3ead994-3a13-495e-ace5-b9cd0e16ac98.png)
-## 4) You can add new user and account from your admin page.
-![image](https://user-images.githubusercontent.com/93276431/149790015-85688361-d926-4069-aaca-24460069e899.png)
+## 4)
+![image](https://user-images.githubusercontent.com/93276431/150114050-e8d5d43a-efd5-43d1-a8c5-a4dd4822b940.png)
 
-## 5)
+
 
